@@ -38,6 +38,7 @@ dependencies {
     implementation "commons-dbcp:commons-dbcp:1.4"
     implementation "org.springframework:spring-orm:3.2.3.RELEASE"
     implementation "org.hibernate:hibernate-core:3.6.10.Final"
+    testImplementation 'org.junit.jupiter:junit-jupiter:5.8.1'
 
 }
 
